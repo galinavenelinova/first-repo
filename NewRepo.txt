@@ -2,3 +2,4 @@ Trying to create a new repository.
 Update with Toroise.
 Adding line...
 and 2
+Update with Bash.
